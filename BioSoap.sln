@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioSoap", "BioSoap\BioSoap.csproj", "{590B47D5-203F-4FF2-9D44-9926919E6214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590B47D5-203F-4FF2-9D44-9926919E6214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590B47D5-203F-4FF2-9D44-9926919E6214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590B47D5-203F-4FF2-9D44-9926919E6214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590B47D5-203F-4FF2-9D44-9926919E6214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF0E564-F432-4D0E-806E-A35703FC3272}
+	EndGlobalSection
+EndGlobal
